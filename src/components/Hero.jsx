@@ -20,7 +20,7 @@ function Hero() {
           transition={{ duration: 0.5 }}
           className="
             uppercase tracking-[0.3em]
-            text-purple-500
+            text-purple-400
             text-sm mb-4
           "
         >

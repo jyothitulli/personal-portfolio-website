@@ -191,8 +191,8 @@ function Navbar() {
 
             //   text-gray-700 dark:text-gray-300
 
-            //   hover:bg-purple-500/10
-            //   hover:text-purple-500
+            //   hover:bg-purple-400/10
+            //   hover:text-purple-400
 
             //   transition-all duration-300
             // "
@@ -209,7 +209,7 @@ function Navbar() {
 
   transition-all duration-300 ease-out
 
-  hover:bg-purple-500/10
+  hover:bg-purple-400/10
   hover:text-purple-400
 
   hover:translate-x-2
@@ -246,9 +246,9 @@ function Navbar() {
           className="
             p-3 rounded-2xl
 
-            bg-purple-500/10
+            bg-purple-400/10
 
-            text-purple-500
+            text-purple-400
 
             hover:scale-110
 

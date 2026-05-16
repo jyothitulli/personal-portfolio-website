@@ -95,8 +95,8 @@ function Contact() {
 
                     flex items-center justify-center
 
-                    bg-purple-500/10
-                    text-purple-500
+                    bg-purple-400/10
+                    text-purple-400
                   "
                 >
                   <FaEnvelope />
@@ -122,8 +122,8 @@ function Contact() {
 
                     flex items-center justify-center
 
-                    bg-purple-500/10
-                    text-purple-500
+                    bg-purple-400/10
+                    text-purple-400
                   "
                 >
                   <FaLinkedin />
@@ -149,8 +149,8 @@ function Contact() {
 
                     flex items-center justify-center
 
-                    bg-purple-500/10
-                    text-purple-500
+                    bg-purple-400/10
+                    text-purple-400
                   "
                 >
                   <FaGithub />
@@ -176,8 +176,8 @@ function Contact() {
 
                     flex items-center justify-center
 
-                    bg-purple-500/10
-                    text-purple-500
+                    bg-purple-400/10
+                    text-purple-400
                   "
                 >
                   <FaMapMarkerAlt />
@@ -234,7 +234,7 @@ function Contact() {
 
                   outline-none
 
-                  focus:border-purple-500
+                  focus:border-purple-400
                   focus:shadow-[0_0_20px_rgba(168,85,247,0.25)]
 
                   transition
@@ -257,7 +257,7 @@ function Contact() {
 
                   outline-none
 
-                  focus:border-purple-500
+                  focus:border-purple-400
                   focus:shadow-[0_0_20px_rgba(168,85,247,0.25)]
 
                   transition
@@ -280,7 +280,7 @@ function Contact() {
 
                   outline-none resize-none
 
-                  focus:border-purple-500
+                  focus:border-purple-400
                   focus:shadow-[0_0_20px_rgba(168,85,247,0.25)]
 
                   transition

@@ -63,27 +63,23 @@ The portfolio is designed with a clean UI, responsive layout, smooth animations,
 
 Clone the repository:
 
-```bash
-git clone https://github.com/jyothitulli/personal-portfolio.git
-```
+  
+git clone https://github.com/jyothitulli/ personal-portfolio-website.git
+ 
 
 Move into the project folder:
-
-```bash
-cd personal-portfolio
-```
-
+ 
+cd  personal-portfolio-website
+ 
 Install dependencies:
-
-```bash
 npm install
-```
+ 
 
 Start development server:
 
-```bash
+  
 npm run dev
-```
+ 
 
  
 
@@ -91,11 +87,11 @@ npm run dev
 
 Create a `.env` file in the root directory and add:
 
-```env
-VITE_EMAILJS_SERVICE_ID=your_service_id
-VITE_EMAILJS_TEMPLATE_ID=your_template_id
-VITE_EMAILJS_PUBLIC_KEY=your_public_key
-```
+ env
+VITE_EMAILJS_SERVICE_ID=service_9ualmto
+VITE_EMAILJS_TEMPLATE_ID=template_oxym4ea
+VITE_EMAILJS_PUBLIC_KEY=oms4JXuKulypzRlp2
+ 
 
  
 

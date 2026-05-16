@@ -63,7 +63,7 @@ function Experience() {
                     {exp.role}
                   </h3>
 
-                  <p className="text-purple-500 mt-1">
+                  <p className="text-purple-400 mt-1">
                     {exp.company}
                   </p>
                 </div>

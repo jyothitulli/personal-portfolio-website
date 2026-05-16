@@ -205,7 +205,7 @@ function Profiles() {
                 hover:-translate-y-2
                 hover:scale-[1.02]
 
-                hover:border-purple-500/40
+                hover:border-purple-400/40
 
                 hover:shadow-[0_0_60px_rgba(168,85,247,0.25)]
               "
@@ -219,9 +219,9 @@ function Profiles() {
 
       flex items-center justify-center
 
-      bg-purple-500/10
+      bg-purple-400/10
 
-      text-2xl text-purple-500
+      text-2xl text-purple-400
 
       transition-all duration-500
 
@@ -252,7 +252,7 @@ function Profiles() {
       className="
         text-sm
 
-        text-purple-500
+        text-purple-400
       "
     >
       @{profile.username}
@@ -280,9 +280,9 @@ function Profiles() {
                     className="
                       rounded-2xl p-3
 
-                      bg-purple-500/5
+                      bg-purple-400/5
 
-                      border border-purple-500/10
+                      border border-purple-400/10
                     "
                   >
 
@@ -321,7 +321,7 @@ function Profiles() {
                 className="
                   inline-flex items-center gap-2
 
-                  text-purple-500 hover:text-purple-400
+                  text-purple-400 hover:text-purple-400
 
                   text-sm font-medium
 
