@@ -39,12 +39,12 @@ const profiles = [
   {
     name: 'LinkedIn',
 
-    username: 'Jyothirmayi Tulli',
+    username: 'jyothirmayi-tulli',
 
     description:
       'Professional experience, internships, and engineering growth journey.',
 
-    link: 'https://linkedin.com',
+    link: 'https://linkedin.com/in/jyothirmayi-tulli',
 
     icon: <FaLinkedin />,
 
@@ -64,12 +64,12 @@ const profiles = [
   {
     name: 'LeetCode',
 
-    username: 'jyothirmayi',
+    username: 'jt_codes519',
 
     description:
       'Problem solving, contest preparation, algorithms, and DSA practice.',
 
-    link: 'https://leetcode.com',
+    link: 'https://leetcode.com/u/jt_codes519/',
 
     icon: <SiLeetcode />,
 
@@ -89,12 +89,12 @@ const profiles = [
   {
     name: 'CodeChef',
 
-    username: 'jyothirmayi',
+    username: 'jyothirmayi_19',
 
     description:
       'Competitive programming contests and logical problem solving practice.',
 
-    link: 'https://codechef.com',
+    link: 'https://www.codechef.com/users/jyothirmayi_19',
 
     icon: <SiCodechef />,
 
